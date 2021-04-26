@@ -14,7 +14,7 @@ main_menu.help=راهنما
 
 program_about.tab_name=درباره
 program_about.currently_opened_world=دنیای بازشده درحال حاضر
-program_about.choose_from_options=Choose from the options on the left what you would like to do.\nYou can switch between these at any time.
+program_about.choose_from_options=از امکانات سمت چپ یک مورد را که دوست دارید انجام دهید را انتخاب کنید.\nشما می توانید در هر زمانی بین آن ها جابه‌جا شوید.
 
 program_convert.tab_name=تبدیل
 program_convert.convert_button=تبدیل
